@@ -8,7 +8,7 @@ We reserve the right to make changes to this Privacy Policy at any time and for 
 
 ## DATA
 
-We do not collect any data about you except the financial data which is provided by Apple directly.
+We do not collect any data about you except the download/payment data which is provided by Apple directly.
 
 
 ## CONTACT US
