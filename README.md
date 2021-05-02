@@ -10,7 +10,6 @@ We reserve the right to make changes to this Privacy Policy at any time and for 
 
 We do not collect any data about you except the download/payment data which is provided by Apple directly.
 
+## Contact us
 
-## CONTACT US
-
-If you have questions or comments about this Privacy Policy, please create a issue in this repo.
+If you have questions or comments about this Privacy Policy, you can send a mail to tianhuan@bingotree.cn, or you can create a issue in https://github.com/CodeNotesApp/Privacy/.
