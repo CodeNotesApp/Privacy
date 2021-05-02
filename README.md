@@ -1,4 +1,4 @@
-# CodeNotes App Privacy Policy
+# CodeNotes/CodeCode App Privacy Policy
 
 Last updated at 05/21/2021
 
